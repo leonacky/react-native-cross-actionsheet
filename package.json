@@ -12,8 +12,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aelesia/react-native-cross-actionsheet.git",
-    "baseUrl": "https://github.com/aelesia/react-native-cross-actionsheet"
+    "url": "git+https://github.com/leonacky/react-native-cross-actionsheet.git",
+    "baseUrl": "https://github.com/leonacky/react-native-cross-actionsheet"
   },
   "keywords": [
     "react-native",
